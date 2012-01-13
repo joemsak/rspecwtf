@@ -1,0 +1,6 @@
+source :rubygems
+
+gem 'rspec'
+gem 'factory_girl'
+gem 'i18n'
+gem "activemodel"
