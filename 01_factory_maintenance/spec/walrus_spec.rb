@@ -4,6 +4,7 @@ require 'active_model'
 FactoryGirl.define do
   factory :walrus do
     id 1
+    name "Wooly"
   end
 end
 
